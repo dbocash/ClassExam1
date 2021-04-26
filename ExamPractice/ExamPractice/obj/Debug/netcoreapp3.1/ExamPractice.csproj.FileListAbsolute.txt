@@ -1,0 +1,15 @@
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\bin\Debug\netcoreapp3.1\ExamPractice.exe
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\bin\Debug\netcoreapp3.1\ExamPractice.deps.json
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\bin\Debug\netcoreapp3.1\ExamPractice.runtimeconfig.json
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\bin\Debug\netcoreapp3.1\ExamPractice.runtimeconfig.dev.json
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\bin\Debug\netcoreapp3.1\ExamPractice.dll
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\bin\Debug\netcoreapp3.1\ExamPractice.pdb
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.csprojAssemblyReference.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.Form1.resources
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.csproj.GenerateResource.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.AssemblyInfoInputs.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.AssemblyInfo.cs
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.dll
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.pdb
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.genruntimeconfig.cache

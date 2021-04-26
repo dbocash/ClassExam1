@@ -1,0 +1,6 @@
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\LabExam1 WinForm.csprojAssemblyReference.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\ExamPractice.LabExam1.resources
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\LabExam1 WinForm.csproj.GenerateResource.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\LabExam1 WinForm.AssemblyInfoInputs.cache
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\LabExam1 WinForm.AssemblyInfo.cs
+C:\Users\Daniel Bocash\source\repos\ExamPractice\ExamPractice\obj\Debug\netcoreapp3.1\LabExam1 WinForm.csproj.CoreCompileInputs.cache
